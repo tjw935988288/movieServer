@@ -1,0 +1,24 @@
+{
+  "name": "remarkmovie",
+  "version": "1.0.0",
+  "description": "重写电影网站",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.18.2",
+    "connect-mongo": "^2.0.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "jade": "^1.11.0",
+    "moment": "^2.19.3",
+    "mongoose": "^4.13.6",
+    "path": "^0.12.7",
+    "underscore": "^1.8.3"
+  }
+}
